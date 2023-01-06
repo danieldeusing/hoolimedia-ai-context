@@ -1,0 +1,640 @@
+Unreal Engine is a game engine that helps to make games. The Unreal Engine is made up of several components that work together to drive the game. Its massive system of tools and editors allows you to organize your assets and manipulate them to create the gameplay for your game.
+Player versus player (PvP) refers to a game that is designed for gamers to compete against other gamers, rather than against the game's artificial intelligence (AI). PvP games generally feature an AI that acts as a second player if the gamer plays solo.
+“The Metaverse is a 3D version of the Internet and computing at large”, Mathew Ball. Broadly speaking, the technologies companies refer to when they talk about “the Metaverse” can include virtual reality—characterized by persistent virtual worlds that continue to exist even when you're not playing—as well as augmented reality that combines aspects of the digital and physical worlds.
+Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other.
+Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can serve as a medium for commercial transactions.
+NFTs (non-fungible tokens) are unique cryptographic tokens that exist on a blockchain and cannot be replicated.
+NFTs can represent real-world items like artwork and real estate.
+"Tokenizing" these real-world tangible assets makes buying, selling, and trading them more efficient while reducing the probability of fraud.
+NFTs can also function to represent individuals' identities, property rights, and more.
+Collectors have sought NFTs as their value initially soared, but has since moderated.
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+The AMGI Studios is a group of talented and devoted individuals that with backgrounds from companies like Pixar and Disney. The team is spanning the landscapes of gaming, animation, business development and Web3. The objective of AMGI is to combine proprietary technology with high quality, character driven animation to develop a new path between Hollywood and the Web3 space.
+My Pet Hooligan is a brand and project of AMGI. They are creating a new age of technology to help people to bring to differents ideas to life, making character animation possible with only a smartphone with their technologies. Animating is easier and fast with the traditional tools.
+
+My Pet Hooligan is a desktop and console PvP video game built in Unreal Engine 5.0 that takes place in a proprietary Metaverse called The Rabbit Hole, which itself is part of an even bigger Metaverse called Interloop.
+It started with a collection of 8.888 NFT Pet Hooligans that are posed to defend Web 3.0 from the corporate overlord, MetaZuckBot.
+The first objective is to build a multiplayer beta game, which will be a giant Hooligan Party - It’s a combination of blockchain technology, gaming and animation creating innovative products and providing fun digital experiences.
+The Rabbit Hole is more than a game: it is an immersive experience that brings together Web 3.0 technology, gaming and proprietary tools developed by the AMGI Studios to enhance the physical to digital experience. The Rabbit Hole is the first immersive social Metaverse platform for connecting as much as it is for playing popular games.
+So, here it is where all the fun happens: a gated city in the Metaverse, owned and controlled by MetaZuck Corp., which means that these Hooligans aren’t completely free - at least not yet - but, while this freedom does not come, the Rabbit Hole is the place to live: running, dancing, fighting robots (and each other sometimes), interacting and living the Hooli way. As soon as the game version 2.0 comes, these Bunnies are going to have many more “extra activities” to engage in, like “Capture the Bag” and “Karrot Games”, as well as new open places in the city to discover. The Rabbit Hole is constantly expanding.
+In play-to-earn games, previously mentioned as "extra activities" and coming with version 2.0 approximately end of Q4 2022, Hooligans can earn karrots and riot in the streets, fighting against MetaZuckBot to end the centralized Metaverse.
+We currently do not know much about MetaZuck. Things we can assume is that MetaZuck is the CEO of MetaZuck Corp. and MetaZuckBots seem to be his evil helpers. MetaZuck Corp. for now has to be considered as an evil corporation!
+While, we do not know the all details, we know that the corporation used to hold the Bunnies to harvest karrots and as their test subjects. Rumor has it that those 8.888 Bunnies escaped from the claws of MetaZuck into the Rabbit Hole. With the Rabbit Hole being fenced off and guarded with towers, it must be assumed that the Rabbit Hole is owned by MetaZuck but the rabbits have taken control. This seems to be the reason why the Bunnies are fighting ZuckBots.
+
+Being the victim of several cruel experiments by MetaZuck, 7 factions with different habits have formed.
+Mutants: Upon surviving some of the worst of MetaZuckBot’s testing, the Mutants remain a secretive faction bent on destruction. Having been exposed to Zuck Corp’s radioactive testing sites, this gang of ghoulish Hooligans is an unpredictable force to be reckoned with.
+Punk Bunnis: Survivors of MetaZuckBot’s corporate music experimentation program, the Punk Bunnis have very little tolerance for Zuck Corp’s corporate lobby music. Anti-establishment to their core, this delinquent crowd of troublemakers is noisy and boisterous, with a special set of abilities for the more musically inclined.
+Cypherbuns: A technically savvy group of Hooligans, the Cypherbuns are the result of MetaZuckBot’s attempts to create cyborg drone Bunnies. These techno Hooligans don’t think like the rest of them, as their abilities to decode and break Zuck Corp’s digital defenses are second to none.
+Rogue Jumpers: A rough and tumble gang of Hooligans, the Rogue Jumpers have an affinity for athletic competition. MetaZuckBot’s experimentation resulted in a faction of Hooligan that loves to compete, loves a good brawl, and never misses an opportunity to place a bet.
+Playboyz: A classy faction of Hooligans, the Playboyz gravitate toward the more refined and polished. They enjoy their parties and never shy away from a good time, one more thing, they love to gamble.
+Bunners: Upon escaping the clutches of MetaZuckBot, these Hooligans have chosen a more relaxed approach to life. While their laid-back and lackadaisical attitudes might get them into trouble from time to time, their ability to appreciate the greener things just might give them some insights as to how to bring Zuck Corp. down.
+Hare Raisers: Being forced to harvest Karrots for MetaZuckBot has left this faction of Hooligans with a vengeance. The Hare Raisers are one of the fiercest of the factions, and their skills in robbery and vandalism have proven to be a Karrot in MetaZuckBot’s side.
+
+The color of the background of the NFT is the indicator for the bunnie's faction. Mutants have a brown, Punks a purple, Cyphers a dark-blue, Rogues a blue, Playboyz a yellow, Bunners a green and Hares a ret background.
+Each factions controls a selected area in the Rabbit Hole. All those areas contain a telecommunication tower with a unique color for each faction. The new map in Alpha v1.1 of the game has the faction areas colored in the map.
+Even with 8.888 Hooligans fighting MetaZuck, to defeat him/her/it, they are gonna need an extra help from “The Others” – the only thing is that even they aren’t so certain about their origin – what are they? Where do they live? Are they even friends? What do they eat at lunch? Many questions are still without answer.
+We assume that "The Others" will be another drop to owners of a My Pet Hooligan NFT and some will be given to other projects as giveaways. They might be a playable character in The Rabbit Hole too.
+Luckily the experiments of MetaZuckBot formed a faction called Cypherbuns. Those technical savy Bunnies are able to hack into some MetaZuckBots and take over control. The comprimosed ZuckBots become friends and supporters in the fight against MetaZuckBot, other factions or The Others.
+
+MetaZuckBots will be another drop to owners of a My Pet Hooligan approximately in September/October. Not all of them look the same. There are different bots with different skills and abilities.
+Zuckbots is a growing ecosystem which is expanding the overall MPH ecosystem.
+They're meant as a companion for hooligans within the main game and where built by MetaZuck. Have a look at their factory.
+They will allow certain abilities and support while playing (to come in next versions).
+They have their own ecosystem and mobile game being built. There are some sneak peeks of the game in recent videos and it looks like a mix between super smash bros, tamagotchi, and battle bots in 3D. What we know now is we will be able to customize the zuckbot and likely upgrade them to battle other players. This will be available to anyone but those holding a zuckbot will be able to use that NFT in the game. More information will come over the next weeks / months.
+Game access, anyone who owns a zuckbot will be able to access the main Rabbit Hole game as a generic hooligan. Likely will have some additional access vs a free to play person, but not as much access as someone holding a Genesis hooligan.
+The Zuckbots storyline is currently being released to us. It started with Hooli (our main character/mascot) breaking into ZuckCorp and freeing zuckbots. This lead to our first Mint of the OG zuckbots. Everyone who minted (or mints via unclaimed hooligan) receives an OG zuckbot and a key. Have a look at the stories:
+- The Heist
+- The Key Saga
+- The Saga Of The Crushed Bots
+Next Hooli found plans within ZuckCorp which gave more details behind the significance of Karrots (within the story) and linked to powering Zuckbots. He "built" a machine which allowed us to burn a key and receive either a Legz bot, QT bot, or a Zuckbox.
+So in total there is:
+- OG, QT, L3GZ and 4 more unrevealed bots
+- Keys, which can be burnt in combination with an OG bot to get a QT, L3GZ bot or a ZuckBox
+- ZuckBox, which have unrevealed content yet. Surprise... surprise...
+
+There will be 7 types of zuckbots and an anticipation of a mega bot. We assume this will involve burning 7 bots to receive, but details are still being trickled to us.
+The team is in full story mode to release details and we get 1-2 videos per week that progresses the story of Zuckbots.
+The community can incluence the story. If all keys are burnt the story will be different. Same for the ZuckBoxes.
+Every universe has its currency or monetary sytem. In this case, The Rabbit Hole has its Karrot Token ($Karrots), which will be an ERC-20 token, that will be solely for use in the My Pet Hooligan ecosystem. Currently the token is not released yet. The Hooligans are staked which earn/yield the token.
+There is a wide variety of ways that My Pet Hooligan NFT holders and players will be able to earn and use $Karrots in the MPH ecosystem, such as staking, locking, play-to-earn games, claims and more.
+Use cases will also include the ability to access exclusive experiences, collect items and perks in the in-game marketplace and minting of future NFT drops including "The Others" as well as other activiations in Phase 1 and subsequent phases of the My Pet Hooligan roadmap.
+
+Every day the My Pet Hooligan ecosystem continues to evolve into an elaborate and spirited universe. The $Karrot token will serve as the lubricant that facilitates the transfer of value throughout the ecosystem, and is only intended for in-game use.
+
+$Karrot Token holders will be able to use their $Karrots on a variety of items not limited to merchandise, in-game cosmetics, upgrades and future drops including "The Others".
+There will be a total fixed supply of 1,000,000,000 $Karrots, which will be distributed as per the following pools. The token distribution model is subject to change in connection with finalization of launch plans. In order to balance the game economy, the project reserves the right to make adjustments as well as to adjust prices of various activities $Karrots are used for in the My Pet Hooligan ecosystem.
+The token is not an ERC-20 Token yet, but a so-called Synthetic Karrot. Synthetic Karrots or "S-Karrots", are on chain values that live in the metadata of each individual Hooligan. S-Karrots begin to accrue once a Hooligan has been staked, at rates specified in the Token Distribution section of the Orange Paper.
+You will get the ability to stack S-Karrots which will be convertible for the $Karrot ERC20 token during the Token Generation Event, closer to Season 1 of the Rabbit Hole game release. S-Karrots will also allow you to claim future NFT Drops, merch, token claims, admission to events, alpha and more that will be revealed over the course of time.
+Soft staking meaning you don't need to lock your NFT into the contract. It can still be listed on a marketplace
+You'll earn a base of 10 s-karrots per day. There are boosters for holding multiple factions or if you've held for 6+ months
+currently you earn synthetic karrots (s-karrots) which stay part of the NFTs Meta data. This will happen until the actual token is launched later this year. At that time any unused s-karrots can be exchanged 1 for 1.
+To stake you connect to the MPH staking site and stake. It will cost a low gas fee.
+You'll accumulate s-karrots that will show as unclaimed. You must claim them to be able to use them in future activations (upcoming mints).
+If you transfer or sell without claiming, the s-karrots will be lost forever. If you claim prior to transferring or selling them they will stay with the NFT
+Unstaking the Hooligan will automatically claim the S-Karrots.
+To get your boosters, you need to unstake / claim all, which are considered for the booster.
+Boosters:
+- 3 different factions - +20%
+- 7 different factions - +50%
+- Proof of Pet (6+months holding) - +30%
+Boosters don't stack. Only 1 will apply per NFT if it qualifies for more than 1. These bonuses apply to each NFT that's part of the requirement. So if you have 3 different factions, all 3 will get +20%. If you have 4 different factions, 3 will get +20% and the 4th will get the base 10 s-karrots/day
+
+There is IMMI, which is a mobile app co-developed with AMGI Studios. This allows you to step out of yourself and into 3D character anytime and anywhere, by using your facial expressions, real-time animation and augmented reality. The app currently is only available to IOS, the android version is going to come soon.
+Just download the app and start to create! Using your camera, the app will read your expressions and replicate it to your character. Currently you can choose between just 5 hooligans, but soon you will be able to use your own hooligan. You also have 4 background options to create your videos (immi, ar, color or use some image/video).
+There are only a few Hooligans on IMMI currently. The rest are on their way and this will mark the first NFT collection available on a mobile app with live functionality.
+
+How can I start using Hooligram?
+Hooligram is a computer program that allows MPH holders to animate their Hooligan in real-time. Holders can also control their Hooligans facial expressions and head movements by utilizing their mobile phone and capturing their face! There have been a lot of questions getting setup and understanding how to use Hooligram. This is a compiled list of common questions, issues, and instructions that should answer most questions and solve most of the issues people are facing. Please share this post with people who are having issues.
+You will need to download the program to your computer from the official MPH website. This program is available for both windows and Mac.
+Open Hooligram on your computer.
+If you receive a request to install UE4 Prerequisites, follow the instructions to install.
+If you receive a firewall popup, select to allow Public and Private (this is needed for Live Link Face to connect to Hooligram)
+Once you have opened Hooligram, you will be asked to Connect your wallet. Enter an email address and click Send Me a Magic Link! button to have a special token link sent to you
+Minimize the Hooligram program and go to your email. Click the Verify link in the email you received. You will be taken to the MPH website to connect your wallet ENSURE THE URL IS https://api.mypethooligan.com/login/ FOLLOWED BY A STRING OF LETTERS AND NUMBERS!
+On the website, click Connect and you will connect your Metamask wallet. Make sure you are connecting your wallet with your MPH NFT in it!
+The website will update, click on Sign And Verify
+You will sign the message popup in your Metamask wallet that you just connected with. Once you have signed this message, the browser tab will automatically close.
+Go back to the Hooligram program and ensure your wallet connected successfully (you will see your MPH NFTs).
+If Hooligram still shows Check Your Email message, click on Cancel Request and repeats steps 3-8
+Click Enter to launch your NFTs within Hooligram
+
+How can I animate the Hooligan with my face now?
+Download ‘Live Link Face for Unreal’ from Apple App Store
+Make sure your iPhone is on the same network as your computer with Hooligram installed
+In the Live Link Face app go to settings (gear button)
+Click on Live Link
+Enter HOOLIGRAM for name and enter the IP address shown in the bottom left corner of the Hooligram program. You can leave the Port as default
+Go back to settings and make sure stream head rotation is enabled
+Go back to the main screen and ensure the Live shown at the top is green. If not, tap it and it will turn green.
+
+Nice... but I don't have an iPhone, will I not be able to use Hooligram?
+You can still use Hooligram! You just won't be able to control your Hooligan's facial expressions and head movements right now. There will be an Android solution in the near future.
+
+I tried... but my Hooligan's face isn't being animated?
+If you are having trouble getting Live Link Face to link up with Hooligram, check the following:
+
+Computer and phone are on the same network
+Live Link settings are correct - HOOLIGRAM and proper IP Address (shown bottom left of hooligram app)
+Live Link is showing green Live on app (if not just touch on Live and should change)
+Hooligram app has Live Link enabled (pressing L)
+On windows your firewall may be blocking Hooligram. Open your firewall settings, locate Hooligram and allow it as an exception. If using window's default firewall, locate Hooligram and make sure Public and Private are both checked.
+
+Great... but now, why is my Hooligan so dark?
+Left mouse click and drag/rotate to adjust the lighting. Once it is brighter, you can walk towards you by pressing the "W" key to turn your Hooligan around.
+
+How do I control my Hooligan?
+There should be keyboard instructions on the left side of the screen that describes what buttons do what actions. If this isn't shown, press the TAB key to unhide.
+
+On my Mac... I am not able to open Hooligram, what do I do?
+You can override your security settings and allow the app to install and open.
+Open Finder
+Locate Hooligram
+Control+Click the app
+Select Open
+Click Open
+Hooligram should be saved as an exception in your security settings, allowing you to open it in the future.
+
+Can I connect to Hooligram using Ledger?
+Yes! If you feel comfortable connecting your Ledger, that is possible. You need ledger linked to your Metamask and then enabled blind signing on the hardware ledger. If you have MM with ledger set to web hid then you can sign through the browser. If you have it set to ledger live then you'll need ledger live open as well.
+Connect ledger to your computer and enter your pin
+Click on the Hooligram email link
+Connect to website with MM (ledger account)
+Press sign & verify on the website
+On the ledger, sign the message
+Tab should close out once signed
+Confirm in hooligram that NFTs show up. If not, cancel and try again, may take a 2nd or 3rd attempt
+
+Cool... Can I use my Hooli in teams, zoom or other apps?
+You can use Streamlabs OBS to overlay your Hooligan on videos or backgrounds. Some of you will be new to SLOBS so @Akes_1 made a short video explaining how to add backgrounds as well how to take your hooligan into a zoom meeting.
+This won't change the background of the Hooligram app itself and if you don't have 2 monitors then you may find you'll only be able to do face expression's but to move around also and still see what your background looks like, go into hooligram hit f11 this should make it a minimized window drag it to the left so it snaps to half the screen then take SLOBS and drag it to the right so it snaps to the screen from there you can do facial expression's and move your hooligan while still seeing the output display with your background.
+
+All Hooligans can be connected to an application on your smartphone, which tracks you face movements and mirrors the movements to your character in-game.
+
+My Pet Hooligan holders are given commercial rights to the specific NFTs that they own, but My Pet Hooligan and AMGI Studios each retain a non-exclusive, perpetual, fully paid-up worldwide license to each such NFT. Owners can use its likeness and derivatives thereof, but cannot use the My Pet Hooligan logo, names, site images, or other marketing material without the express written consent of My Pet Hooligan. AMGI Studios reserves the right to use any My Pet Hooligan NFT including, but not limited to in-game or marketing promotion, or additional endeavors.
+
+We as the community still do not know the exact plans, but the team has connections to Disney, Pixar, Netflix and more big companies in that area. The possibility to get a series, a movie or even Music Videos soon is very high.
+We already get constant updates from "Hooli", our little Hooligan friend. Check out the official section filtered by Hooli for more videos. These videos already look good enough for a little series.
+Did you know that EPIC Games visited the team and is an investor in AMGI Studios? Yeah, it is.
+
+How do I benefit from holding?
+Holding a genesis hooligan gives you access. This access can be broken down into three parts, immediate access, planned/future access, and speculative access.
+Immediate access to:
+- Immi/Hooligram
+- Access to alpha game
+- Token generation through staking
+Planned access to:
+- ZuckBot Airdrop
+- MPH second collection, The Others
+- Token Activations
+- In-game marketplace, buy and sell limited edition cosmetics
+- Token claims/in-game token generation upon Season 1 release.
+Speculative future access to:
+- In-game MPH real estate, "select elements of real-estate may be made available for acquisition"
+- Interloop access
+
+Immi/Hooligram
+Genesis holders currently have access to Immi mobile app and Hooligram online (iPhone users only currently). Using these applications along with the FBX files provided, a hooligan holder can animate and make content with their specific nft. This real time facial animation technology is already operational and can be used to experience never before seen social immersion in a game. While most likely wont take advantage, this technology can be leveraged along with hooligan holder’s ownership of IP rights to not only create content that expands MPH’s outreach but also to gather a social following around your own creations. This may seem insignificant currently, but AMGI aims to build a virtual world economy that empowers creators. Gaining a following and having an impact on the My Pet Hooligan audience will enable a creator to turn that attention into in game marketshare.
+
+Game access
+Holders have access to the game’s alpha release versions. This alpha access is token gated and includes the ability for you to play directly as any hooligan nft you own. Early access to the game allows for holders to get a leg up on everyone else by experiencing the early world building process, testing game mechanics, and creating content. Holders have direct feedback outlets through discord to share their early game experiences versions, make suggestions, and help to shape the future of the game. Note: As of the latest alpha build, select other nft communities also have this access and play as default rabbit characters.
+
+Token generation
+Genesis holders can currently stake their nft for a base generation of 10/13/15 S-Karrots a day depending on # of nfts stake (see Token Distribution in Orangepaper). S-Karrots represent My Pet Hooligan’s native utility token and will be primary currency for future MPH activations and in game spending.
+
+Zuckbot Airdrop
+This airdrop is a 1:1 companion airdrop of 1 unique Zuckbot drone for every genesis hooligan owned. As per My Pet Hooligan lore, Meta Zuck Bot is the evil overlord of the rabbithole that held the hooligans in captivity until the manage to escape. The Zuckbots are individual drones that patrol the streets of the Rabbit Hole looking for escaped hooligans to take out. Currently unknown as to what the programmed nature of the Zuckbot companions will be in game, but its predicted for them to be implemented in a way similar to having a pet (train, play, fight, etc).
+
+Token activations
+Generating a utility token through staking is only valuable if there are appropriate sinks and activations. My Pet Hooligan’s second collection, The Others, is likely to be the first token activation available. This drop is estimated to be around a 12k collection and purchased using sKarrots. The Others will generate 3 sKarrots a day when staked, automatically giving them relative value to the genesis collection. Owning one of The Others offers a more affordable ownership stake in My Pet Hooligan’s token economy. The minting of a second collection for any nft ecosystem offers up the tricky dynamic of managing benefits between the subsequent collections and the genesis one. Safe to expect Genesis holders to be prioritzed in future activations. Below is a list from MPH’s Orangepaper outlining planned $Karrot activations.
+
+Marketplace
+The in-game marketplace is expected to go live along with the Season 1 release of the Rabbit Hole. In the initial marketplace release, players can expect to be able to openly trade cosmetic items and upgrades with $Karrots. At this point in time all cosmetic items will likely be purchased from AMGI and then traded on the secondary market. Cosmetic releases will include exclusive brand partnerships and limited release items. Holders will have priority access to these drops.
+
+Token claims
+At the launch of the $Karrot utility token, which will likely coincide with the Season 1 release of the game, there will be a token claim available for every genesis nft holder with the total value being an estimated of 1125 $Karrot tokens per hooligan. After claiming, the tokens are aligned to a strict vesting schedule and will unlock at predefined times. A second token claim will also occur later on post The Others mint.
+
+In-game token generation
+46% of ecosystem tokens are set aside for collecting tokens through some form of in game activity. In-game token generation is expected to start in a limited capacity during the Beta release. Upon Season 1 release.
+
+Marketplace/In-game real estate
+The release of shops/marketplaces and other in-game real estate for purchase with $Karrots will set the stage for a primarily player run economy with holders at the helm. Holder owned marketplaces, theaters, art galleries, casinos, all of which could generate real production value and result in payment for services or usage royalties. Holder and non-holder creators alike will benefit the most here. In the future holders will be able to use their own in-game asset creations to create their own brands/experiences/products to bring to market. Based on real estate ownership, holders will likely be able to provide platforms to non-holder creatives who need a place to showcase their talents. In-game real estate is on the roadmap plan but I’ve thrown this into the speculative section since there’s no set plan for implementation.
+
+Interloop
+Interloop is AMGI’s larger plan for virtual world building that will act as the host world to many other different experiences, “autoverses” as AMGI calls them. My Pet Hooligan will be the premier autoverse within this world and genesis hooligan holders can expect to see benefits carry over into Interloop access, starting with access to Interloop’s land mint. There is also speculation of $Karrot token and Interloop’s token having some form of intertwined value.
+
+Hooli Media is a central place to collect all media content shared on social platforms, such as Instagram, TikTok, Twitter, Youtube. The ambition is to have one location to have all the media available with the possibility to search or filter for the stuff you like and want to see.
+
+The project itself is considered as a community project without intention to make any money from it. It should just support the community in general. All feedback is highly valued and all suggested improvements or changes will be implemented when time is available.
+
+All posts shared on Hooli Media keeps ownership, which means every post published on Hooli Media always has the source (even if it is instagram, tiktok, twitter, youtube) as a link in the post. No intention to "steal" or promote any content without giving the credits to the creator.
+
+There are three different categories:
+- Gang Media is the content created by selected people who have special roles in Hooli Media, such as giving allowance to posts, delete/update posts. The goal is that those Gang Members share regular content of a specific topic.
+- Community Media section shares all the media created by the community. Everybody with a login can create a media content in the community section. The newly created post first gets to a page called "Waiting for approval", which can only be seen by Gang Members. The Gang Members then can give approval to the post and it gets published to the Community Media Page. This is to prevent bad posts with content not related to the Interloop and other content like suggestive, violent, pornographic, etc. content.
+- Official Media content is a collection of all the content shared by AMGI team members. This can be official mypethooligan, Colin personal twitter, etc., but considered as content which comes from AMGI in any form.
+
+You can register and create an account on Hooli Media. Currently there is only support for E-Mail registration, but OAuth2 and Web3 login is planned. After registration you will receive a confirmation link, which you need to confirm before using your new account. You should check your Spam-Folder if you did not receive an E-Mail within a minute.
+
+Having an account allows you to add media content in the community section. You only need to copy the URL from your tweet on Twitter or the post on Youtube, Instagram, TikTok. Currently videos are only supported for Twitter, Instagram, Tiktok and Youtube. Images ar only supported for Twitter and Instagram. In the future further inclusions, such as Twitch, are planned. Also on the list are features like comments and likes.
+
+Everybody can become a Gang Member! Requirements are daily checks for pending approvals, quality / availability of existing content and regular content creation for the "Gang Media" section. Being a Gang Member allows you to add media to all three sections (Gang, Community, Official), the possibility to manage existing content, a visible profile in The Gang and access to the pending community posts.
+
+In all sections, as well as in the today's updates page, you can search for specific content or filter the list by selected categories or media types. Currently supported are IMAGES and VIDEOS as media types. The categories vary between the different sections. In the Official Media section you can find category like Sneak Peak, Trailer, Ask me Anything and more. In the Community Media you have different categories such as In-Game Footage, IRL Video, Graffiti and more.
+
+Hooli Media can be accessed via https://hooli.media
+
+Hooli Media can be followed on twitter @hoolimedia_eth
+
+The internet is evolving from “read only” websites through “read and write” platforms to “read, write and own” Web3 metaverses. Gaming is the new technology paradigm as much of the digital activity (e.g. search, social, shopping, live events) will increasingly take place INSIDE the game environment. AR/VR are on the verge of wide scale adoption as metaverse initiatives are increasingly dominating current awareness trends. However, they are devoid of any meaningful interoperability. 
+Game-play patrons will grow from 3 billion to 5 billion in the next decade. Game-play revenues from console, PC/Mac and mobile are projected to exceed $195 billion by 2024. Gamers will spend an average of $21 USD per month on in-game activities. Gamers' average daily time spent by + 18 year old patrons will approach two hours daily by 2024 growing at a 3.4% CAGR from the 2020 reference year. Gamers tend to be young and affluent or older and college graduates. Both groups have unlimited mobile data plans allowing them to spend as much time playing as they like.
+
+My Pet Hooligan is AMGI Studio's flagship Web3 IP. AMGI studios is a creative Web3 entertainment company with deep experience in animation and gaming.
+Over the years AMGI has developed a series of cutting edge animation approaches and technologies that will serve as fundamental infrastructure to the expansion of Web3.
+With an emphasis on targeted workflows inside of the Unreal Engine, AMGI Studios is a high-caliber creative team composed of artists and creators from renowned studios such as Pixar, Disney, and ILM.
+The My Pet Hooligan brand is a core piece of the AMGI Studios mission of on-boarding of new people into the Web3 ecosystem through community and IP integration.
+
+AMGI Studios Core Focuses:
+- Be the creative bridge between Hollywood and Web3
+- Develop technology and workflows that make AMGI the fastest animation studio on the planet.
+- Push the boundaries of Web3 gaming
+- Onboard new participants into the Web3 space by providing new and enjoyable experiences not limited to gaming
+- Implement new concepts and technologies that propagate the development of the wider Web3 ecosystem
+- Raise the standard of character development and integration in Web3
+- Develop innovative and compelling IP that exists in and beyond the Web3 space
+
+My Pet Hooligan Core Focuses:
+- Develop the highest quality Web3 experience using proprietary tools and technologies
+- Build a Web3 integrated game that is high quality, fun and will find its place amongst the best games in the wider gaming marketplace
+- Build a fun, social, and immersive platform that transcends gaming
+- Create a vibrant ecosystem through the use of utility tokens
+
+AMGI Studios
+The AMGI Studios and My Pet Hooligan team are a talented and devoted group of individuals, spanning the landscapes of gaming, animation, business development, and Web3.
+AMGI’s objective is to combine proprietary technology with high quality, character driven animation to develop a new path between Hollywood and the Web3 space.
+On the forefront of real-time animation, AMGI is uniquely positioned as innovators in the space, with a pipeline of original content and the ability to bring traditional animation into the future.
+With the support of high caliber creative talent from renowned studios such as Pixar, Disney, ILM, and Pixomondo, AMGI Studios delivers a quality of work that is unmatched in the industry.
+Each individual brings something unique to the table, and we are well aware that the success of this project is the sum total of a massive group effort. Every single member of the MPH community is also considered a part of our wider team, and have a role to play in this our collective journey.
+AMGI Studios (www.amgistudios.com) is reshaping the animation landscape of entertainment, game content and interactive AR/VR environments by combining our creative team with cutting edge technology initiatives. Our current Studio focus is on animated movies, NFT 3D character designs and building a massively multiplayer online role-playing game that is interoperable with our minted NFT characters. We plan to secure partnerships with brands and projects to bring their content and characters into the game.
+AMGI Studios is in development on a an animated feature film, has successfully minted 8,888 My Pet Hooligan NFTs in December 2021, and is currently building a complimentary Web3 interactive/immersive experience, The Rabbit Hole - with creative design input from many of our 100,000 strong community members across various social media platforms.
+Longer-term, the studio will build out a unique metaverse, INTERLOOP, a decentralized set of interoperable “Autuverses” (Our INTERLOOP white paper will be published in the coming months.)
+Our Studio recognizes that game-play and digital experiences are fundamental to all aspects of human interaction and their influence has intensified. Communication technologies are currently aggregating billions of game-players through the conveyance and the adaptation of digital content. We are committed to a Web3 focus in our design philosophy. Positioned at the intersection of physical and digital worlds. Our design will focus on creating “games within a game” stoking an element of chaos in the game's strategic dynamics while building fun and intrigue into the underlying game mechanics. “The Rabbit Hole” is our initial multi-player game.
+The Rabbit Hole is more than a game: it is an immersive experience that brings together Web3 technology, gaming and proprietary tools developed by the studio to enhance the physical to digital experience. The Rabbit Hole is the first immersive social metaverse platform for connecting as much as it is for playing popular games.
+Here are some profiles of our Team Leads:
+
+Roger Paglia - Chief Operating Officer
+AMGI Animation Founder, producing digital and live-action titles for a new generation. Former Vice Chairman and CEO of CenterStaging, Co-Founder of Rehearsals.com, Comcast VOD, and Buena Vista Distribution.
+ 
+Colin Brady - Chief Creative Officer
+Former Chief Animator for Pixar’s Toy Story 1 & 2, A Bug's Life, Amazing Spider Man, GoT, and many more. Worked alongside Steven Spielberg, Steve Jobs, George Lucas, Ang Lee, and Martin Scorsese.
+
+Luke Paglia - Chief Operating Officer
+Extensive live action experience with commercial clients such as Apple and Toyota. Most recently credited for Coldplay and BTS music video. Oversees coordination and execution of all projects.
+ 
+Howard Livingston - Chief Financial Officer
+Senior entertainment executive credited with negotiating the first major studio home video content supplier agreement to supply Netflix’s and part of the executive team that developed and launched the DVD format.
+
+Frank Easterly - Chief Strategy Officer
+Co-Manager and coordinates strategic direction. Founder of Integrated Global Service, a worldwide industrial service company, and owner of Franker Fund LLC, a private investment firm focused on tech, entertainment and DeFi.
+ 
+Kevin Mack - Unreal Engine Technical Director
+Kevin is VR and video game developer, with deep experience in gameplay and engineering and the business of making games.
+ 
+Weston Paglia - Web3 Creative Director
+Crypto enthusiast and Web3 Creative Director for AMGI Studios primarily focused on the intersection of entertainment and blockchain technology.
+ 
+Asif Zamil - Crypto Developer
+Full stack developer specializing in the crypto space.
+
+Tony DiIoia - Co-Founder and head of Consumer Products
+Tony Creates original content and has operated character-based entertainment companies throughout his 40-year career.
+
+Luke Skyhopper - Web3 Strategist and Community Lead
+Senior Program Manager with extensive experience in delivering large scale projects and programs across both public and private sector industries. A Computer Science graduate and crypto enthusiast. Experience working in a Tier 1 Investment Bank and Strategic Advisory with a Big 4 Firm.
+
+Partners
+My Pet Hooligan is proud to be partnered with some of the most sought after thought leaders in the space of Web3 & traditional gaming, including Delphi Digital and Yield Guild Games.
+These partnerships along with AMGI Studios’ pre-existing associations with Epic Games, Unreal, Coldplay, and Netflix, provides a robust foundation for the development of the My Pet Hooligan ecosystem within the web3 space and beyond. 
+
+My Pet Hooligan holders are given commercial rights to the specific NFTs that they own, but My Pet Hooligan and AMGI Studios each retain a non-exclusive, perpetual, fully paid-up worldwide license to each such NFT. Owners can use its likeness and derivatives thereof, but cannot use the My Pet Hooligan logo, names, site images, or other marketing material without the express written consent of My Pet Hooligan. AMGI Studios reserves the right to use any My Pet Hooligan NFT including, but not limited to in-game or marketing promotion, or additional endeavors.
+
+$Karrots
+The My Pet Hooligan ecosystem and The Rabbit Hole play-to-earn game will be powered by the $Karrot token. The $Karrot token is an ERC-20 token that will be solely for use in the My Pet Hooligan ecosystem.
+There is a wide variety of ways that genesis NFT holders and players will be able to earn and use $Karrots in the MPH ecosystem, such as staking, locking, play-to-earn games, claims and more. 
+Use cases will also include the ability to access exclusive experiences, collect items and perks in the in-game marketplace and minting of future NFT drops including ‘The Others’ as well as other activiations in Phase 1 and subsequent phases of the My Pet Hooligan roadmap.  
+$Karrots will have a fixed total supply of 1,000,000,000.
+
+S-Karrots
+Synthetic Karrots or "S-Karrots", are on chain values that live in the metadata of each individual Hooligan. S-Karrots begin to accrue once a Hooligan has been staked, at rates specified in the Token Distribution section of the Orange Paper. 
+You will get the ability to stack S-Karrots which will be convertible for the $karrot ERC20 token during the Token Generation Event, closer to Season 1 of the Rabbit Hole game release. S-Karrots will also allow you to claim future NFT Drops, merch, token claims, admission to events, alpha and more that will be revealed over the course of time. 
+
+$Karrot Utility in the MPH Ecosystem
+Every day the My Pet Hooligan ecosystem continues to evolve into an elaborate and spirited universe. The $Karrot token will serve as the lubricant that facilitates the transfer of value throughout the ecosystem, and is only intended for in-game use. 
+Karrot Token holders will be able to use their $Karrots on a variety of items not limited to merchandise, in-game cosmetics, upgrades and future drops including ‘The Others’.
+
+There will be a total fixed supply of 1,000,000,000 $Karrots, which will be distributed as per the following pools.
+The token distribution model is subject to change in connection with finalization of launch plans. In order to balance the game economy, the project reserves the right to make adjustments as well as to adjust prices of various activities $Karrots are used for in the My Pet Hooligan ecosystem.
+
+Claims - 2%
+A total number of 20,000,000 $Karrots will be allocated via the $Seed casting method discussed above to CLAIMS for holders. There will be two CLAIMS periods: 
+1 - For genesis MPH holders in May (10,000,000)
+2 - For genesis and other MPH ecosystem NFTs Q2/Q3 (10,000,000)
+The claiming process will allow holders to claim the ERC-1155 $Seed tokens, which will in turn release the $Karrots over the predefined vesting schedule from the point of mint. 
+Both claim periods will last for 90 days. The first at launch of the $Karrot token and second at a predetermined date, post minting of The Others.
+Claims will be redeemable by wallet addresses holding My Pet Hooligan NFTs at the time of their corresponding claim period.
+The initial claim pot will be fully divisible against all 8888 Hooligans at an equal rate.
+
+Soft Staking - 15%
+A 15% supply (150,000,000) will be available for soft staking rewards.
+Genesis MPH NFT holders will have the opportunity to earn $Karrot tokens each day by staking their NFTs. This will not affect any play-to-earn ability for the NFT. $Karrot tokens can be claimed by the wallet owner at any time through the upcoming dashboard on the My Pet Hooligan website. Staking rewards will initially last for 3 years.
+The cyclical system and contributions received by the Hooli Treasury will mean that once staking reserves have been depleted and the reserves are in a positive position the community could lobby for a portion of the Bank reserves to replenish the passive rewards pool. 
+Furthermore there will be opportunities to open up the ability for ‘renting/leasing’ of Hooligans for P2E where owners could continue to benefit from rewards through leasing their Hooligans.
+Additional $Karrot incentives exist for various combinations of genesis MPH NFT ownership. There will be opportunities to ladder this out further too for more combinations.
+Genesis Hooligans
+Each Hooligan will generate 10 $Karrot utility token per day
+Wallets with one Hooligan from at least 3 factions will receive a 20% booster. This can be any combination of factions. Although some synergies between factions will be developed for gameplay in line with emerging narrative.
+Wallets with one Hooligan from each of the 7 factions will receive an additional 50% booster, therefore earning 15 $Karrots per day per Hooligan
+Proof of Pet
+Wallets that have held a Hooligan NFT for a set period of time will receive a ‘Proof of Pet’ reward. This will entitle the owner to a 30% additional allocation of $Karrots. Thus generating 13 $Karrots per day. 
+The first unlock will occur for those who have held for a period of 6 months by a date soon to be announced. Proof of Pet however will become increasingly difficult to achieve, as the time period required for holding will increase.
+The Others
+‘The Others’ will also be subject to staking rewards, but limited at a flat rate of 3 $Karrots per day with no boosters. Any rarity attributed to ‘The Others’ will be based on scarcity of type and traits.
+These rewards will be fixed and not stackable.
+There will be further perks for Bag Holder traits, OGs (those that have held since mint) and those that have a complete set of 7 factions not inclusive of staking. These perks will be announced in due course. This ensures that distributions are fair and also takes into consideration the community that has developed since mint.
+
+The Hooli Treasury - 10%
+A 10% supply (100,000,000) will be allocated to the Hooli Treasury. This is a community treasury that will be used to positively support the ecosystem, promotions, events and other community initiatives. 
+Having the community involved in governance is important to the development of the MPH ecosystem and fundamental to its success. The path to decentralization of the ecosystem will be gradual over time and suggestions from the community to make improvements will always be welcomed. It is also anticipated that project may also put proposals forward for a community vote
+
+Any time $Karrots are spent in the My Pet Hooligan ecosystem they are added to the Hooli Treasury. There will also be games and events where the Hooli Treasury will ecosystem contributions in $Karrots capped at 5%. Therefore although the Hooli Treasury will start with 100,000,000 $Karrots, the pot can increase in size as $Karrots are spent and ecosystem contributions are collected.
+The Hooli Treasury is what will provide longevity to the ecosystem and not just limit the ecosystem to a predetermined life span that will end when all tokens are distributed.
+Team & Partners - 12%
+A 12% supply (120,000,000) will be locked up in the team & partners treasury for operating the My Pet Hooligan game and ecosystem. This will also include launch contributors and advisors. This will also help the team and partners to continue to build the brand and ensure the best resources are retained and in place to support the growth of the ecosystem and innovation. This emission of the team & partners treasury will be subject to a linear vesting schedule. The vesting schedule will take place over 5 years and there will be a full lock up with no emission for the first 12 months to negate any chance of supply spikes.
+
+Rabbit Hole Development - 15%
+
+The development of the Rabbit Hole game and social experience will be a multi-year and beyond undertaking that will be iterated upon and evolve over the course of time. 
+A 15% supply (150,000,000) will be positioned in the development treasury to ensure there is a sustainable stream of tokens for the continued development of The Rabbit Hole and surrounding low impact games too.
+The development pool will be drawn against as project resources are required.
+P2E Rewards - 46%
+
+The Rabbit Hole
+The Rabbit Hole is a place to connect, socialize, be a hooligan and play games. The Rabbit Hole has a flexible and open architecture that will allow for future iterations and game modules to be added as time progresses.
+The Rabbit Hole leverages groundbreaking technologies that have never before been used, such as the ability to fully animate your character's face and body through keyboard control and a smartphone camera. The Rabbit hole brings the highest quality live user generated content (UGC) to a gaming platform.
+Development of large scale games take years, and My Pet Hooligan has taken the approach to deliver various game modes over the course of Seasons. It is understood that moving fast is extremely important in this space, and this approach allows the speed and flexibility to iterate toward a product market fit as fast as possible. 
+The constructs of The Rabbit Hole mean it is much more than just a game and is actually somewhere you can socialize with fellow members of the community without the need to compete in gameplay. There will be areas in the Rabbit Hole where you can simply hang out and engage with the community and partake in activities not pertaining to the game play modes.
+The fundamental game structure of the Rabbit Hole is rooted in an ongoing inter-faction struggle for resources caused by MetaZuckBot. Factions must compete for the various resources required to construct one of the most valuable substances in the Rabbit Hole… Karrot Cake.
+In this game, factions must organize into hierarchies and battle one another for control of key ‘soft resources’. Individual Hooligans must complete faction missions in order to rise through the faction ranks. This framework encapsulates all of the other game modes in development, and provides an architecture for the Rabbit Hole in-game-economy to flourish. 
+
+
+Additional core game modes that are currently in development:
+- PvE game play
+- Battle Royale
+- Resource Management
+- User generated game challenges ie. team vs. team death matches, where users could place their own bounties
+Each new season will usher in new map extensions, new features, and new game modes. As the Rabbit Hole is iterated upon over time, new and more elaborate game modes will continue to develop as well. These developments will last years, as long-term thinking will serve the project and token holders the most over time. 
+As a side to the overarching gaming modes there will also be regular scheduled token earning events to strengthen the login behavior and participation through earning opportunities
+
+Further details on the specifics of the gaming modes and earning mechanics will be detailed before the launch of each Season.
+The Rabbit Hole Season 1 will launch with ‘Turf Wars’
+Turf wars is a P2E game mode where factions must compete for territory in order to earn $Karrots.
+In this game, specified neighborhoods and landmarks will generate $Karrot token revenues over the course of the season.
+Factions must attack and defend parcels of turf in order to earn the $Karrot revenue from any specific piece of territory. These pieces of territory must be held for specified durations of time in order for a faction to receive the $Karrot revenue. 
+All $Karrot revenues will be sent to faction wallets, or ‘Faction Vaults’. These wallets will distribute $Karrots to all faction members at the end of each season. 
+Although there will be a pool of rewards for the overall Faction, individual players will be rewarded more as will be the higher performing players based on in-game activities. 
+Hooligan Tag
+In this game mode, Hooligans must venture into enemy territory in order to tag graffiti onto the walls of the competing factions’ buildings. Teams must work together to cross boundaries, vandalize property, and defend turf.
+Capture the Bag 
+A tried and tested game mode where Hooligans must again venture into enemy faction territory in order to retrieve a faction bag of $Karrots. Once the offensive team has taken a bag, they must make it back to their turf before the defending faction kills them.
+The Rabbit Hole Marketplace
+Given the demand for customization and individuality in games and in Metaverses,  an on-chain marketplace will exist in the MPH ecosystem that will provide in-game cosmetics, wearables, weapons, and upgrades in exchange for $Karrot tokens. 
+$Karrot tokens received for the sale of in game cosmetics will be added to the Hooli bank treasury.  These will also be re-sellable by owners, creating a secondary market for in game cosmetics.
+
+The project will seek exclusive partnerships with brands for limited release items too. E.g., clothing brands, artists and other projects.
+$Karrot Games
+The Rabbit Hole P2E experience will be supplemented by additional play-to-earn opportunities outside of the video game. These games will provide touch points for all demographics in the community not just limited to video gamers.
+These games will yield a smaller volume of $Karrot tokens via the $Seed tokens. 
+These games are largely inspired by some of the games that the community has already been enjoying in our social platform, only players will now be able to play for $Karrots.
+In addition to providing $Seeds to players, a portion (5%) of winnings will be contributed to the community treasury.
+Further details on $Karrot games will be launched before the first game goes live.
+Interloop
+The MPH P2E experience, The Rabbit Hole, is an iterative and open world experience that sits in a wider Unreal 5 Metaverse architecture being built by AMGI Studios called Interloop. There are long term plans for how Interloop will take shape over time, including the ability for other projects and brands to acquire and build upon the architecture to create their own unique experiences as well. The Rabbit Hole is the first piece of that greater architecture. 
+The interoperability of metaverses and Web3 brands is essential to a robust and healthy ecosystem, and Interloop will serve as the connective tissue that networks these communities.
+
+This is our anticipated roadmap, given the complexities of what we are delivering and it being a first in this space, time frames could be subject to change.
+It is also understood that not all My Pet Hooligan holders will be gamers therefore it is important that value is offered for all profiles of holders and not just limited to gaming.
+
+Hooligram V1 - Launched
+Hooligram is a proprietary real time animation application designed for MPH NFT holders. The app enables users to animate and control their NFT character through real-time motion capture of facial expressions and on-command animation technology. Hooligram democratizes animation, easily empowering content creators and owners to create brands and personalities (UGC) with their NFTs. 
+Hooligram can also be used for livestreaming to popular platforms and even attending meetings as your NFT.
+Hooligram and AMGI Studios is currently exploring ways to white-label Hooligram and onboard other projects to use the technology. Projects would have to provide a licensing contribution in $Karrot tokens in order to use the app. 
+It will also be considered to have a small allocation of generic characters in Hooligram for non-NFT holders to be able to use if they hold $Karrots to bring more users into the MPH ecosystem, further allowing for exposure of the technology.
+The underlying technology of Hooligram is also a feature that is used in The Rabbit Hole providing, providing the bridge from human to digital interaction This technology is not currently available in any other NFT, Metaverse or P2E Gaming project. Is also a big leap forward for the NFT space and this technology is a fundamental building block for the next generation of digital experiences. 
+FBX files will still be delivered and are expected in early Q2, Hooligram took priority in Q1 to allow community members who aren't versed in animation workflows to be able to create content with their NFTs.
+Mobile App - April
+AMGI Studios is a strategic partner with an upcoming mobile app that is positioned to disrupt the NFT / animation space. Some may already have an idea of what this could be, and an official announcement will be made in the coming weeks.
+S-Karrot Token Launch - May
+A launch plan is being followed, leading to the Token Generation Event (TGE) of the $Karrot token by Q4. Staking will go live in May with holders able to soft-stake their NFTs to generate on-chain Synthetic Karrots (S-Karrots) which will later be convertible to $karrots on TGE.
+Alpha Release - May
+The Alpha is close to the final stages of internal testing and an early access version will be made available imminently to the gaming focus group and select members of the community in April. The wider release to all holders will happen in May.
+The Alpha release will be an early test for all MPH NFT holders to get acclimated with the world and provide some stress testing and interrogation, whilst also having fun with the early game mechanics. This is a vital piece to ensure the game release in Q4 is inclusive of community feedback and has additional sight of any bugs and technical issues.
+The alpha release of the Rabbit Hole will be the first taste of the My Pet Hooligan metaverse. Any holder of a genesis MPH NFT will have the ability to connect their wallet to the game and select the NFT avatar they would like to use in the game. Players will have the ability to change to any other NFT avatar they own as well. 
+Players will be able to use their weapons, as well as pick up additional objects and weapons that are currently available inside of the alpha launch. 
+Once inside the world, early users will have the ability to explore the neighborhoods and landmarks inside the alpha map, as well as fight one another, either one on one or in a group. Players will also have the ability to fight Zuck Corp drones as they patrol the map. 
+The Rabbit Hole alpha release will be an extremely important milestone for the MPH project, and the alpha testing team’s feedback will help to ideate and build out the nuances and details of the world.
+
+Exclusive Launch Partner Mint - Date TBD
+There will be a small exclusive NFT drop with an upcoming NFT Marketplace as part of an exclusive launch partner program that MPH has been selected for.
+This will also serve to introduce the MPH project to one of the largest crypto communities in existence, and with it a new consumer base. This new release will have in-game applications. Since this collaboration is with a marketplace, this drop will not be available to purchase with $Karrots but will be purchasable in Ethereum.
+M-K2O (Karrot Juice)  - Q3
+During the escape from Zuck Corp some plans were discovered alluding to the development of a molecular composition symbolized as M-K2O. What it is and what it will lead to is still unknown. All we know is that you can only make M-K2O using $Karrots and only select members of the community will be able to get them. There will only be 888 M-K20s available.
+
+The Others - Q3
+Did you think the baddest bunnies on the planet were the only characters in The Rabbit Hole? The Hooligans will need extra help to defeat Meta Zuck Bot in the form of ‘The Others’. 
+‘The Others’ will be the second collection from My Pet Hooligan, centered around the next set of characters that will be set loose in The Rabbit Hole. The Others will not only bring value back to genesis token holders but also allow for new entrants into the My Pet Hooligan ecosystem and Rabbit Hole game.
+The Others will be a collection of 12,000 NFTs, of which 8,888 will be mintable only via S-Karrots. All genesis MPH token holders will have an automatic access pass to ‘The Others’ and the price in S-Karrots will not exceed the minimum claimable amount of S-Karrots by mint date, ensuring it is effectively a ‘free mint’ for genesis token holders. These numbers could be subject to change.
+Through use of the ‘casting’ method, holders of ‘The Others’ will also be able to ‘melt’ their NFTs in order to reclaim the casted S-Karrot tokens inside of them, permanently removing their NFT from circulation in the process. This feature will prove to be a powerful game mechanic that will set ‘The Others' apart as being a truly deflationary NFT collection.
+The Rabbit Hole ‘Season 1’ - Q4
+The Rabbit Hole launches with Season 1 gameplay as described earlier. Season 1 will open with Web3 integrations and will also have a free-to-play model, ensuring that MPH captures the widest gaming audience possible without barriers to entry.
+In-Game Marketplace Launch - Q4
+The ability for personalization and customization of valued items has always been important to collectors and gamers. It has also proven to be a large market and revenue stream for many of the top multiplayer games. For example, the majority of Fortnite’s $5bn revenue generated last year, was made with in-game purchases.
+An on-chain marketplace will exist in the MPH ecosystem that will sell in-game cosmetics and upgrades in exchange for $Karrot tokens. $Karrot tokens received for the sale of in game cosmetics will be added to the Hooli Treasury. 
+Items purchased in the marketplace will also be re-sellable by owners, and MPH will seek exclusive partnerships with brands for limited release items as well.
+The in-game marketplace will play a substantial role in the Rabbit Hole and wider MPH ecosystem, as it will allow for  onboarding of new players into the Rabbit Hole.
+Free to Play Growth Model
+Growth of the Rabbit Hole game is fundamental to the ultimate success of the My Pet Hooligan ecosystem. By allowing people to play the game for free, new participants will be able to enter and explore the MPH ecosystem through a low cost barrier of entry. 
+Players that have entered for free will spawn into the game as a generic avatar, and have access to select game modes. They will however be able to customize their generic avatar through in game marketplace purchases. 
+There will also be opportunities for players to get recruited into factions and unlock further abilities, instilling pride, comradery and a sense of achievement for those who prove themselves.
+
+Hooligans have to think at least 2 steps ahead of Meta Zuck Bot. These are some of the initiatives currently being workshopped by the project and studio. Others will, however, remain a secret - and all are subject to change.
+Season 2
+The Rabbit Hole will go live with Season 2 gameplay and an updated game building upon the Season 1 release. This will also map extensions, new features, and new items.
+Ownership of ‘in-game’ Real-Estate
+Want to own/lease the local art gallery, ammunition store, casino, or graveyard? Select elements of real-estate may be made available for acquisition with $Karrots and royalties can also be rewarded in $Karrots from services provided.
+IRL Events
+Community is key, and it is very important to be able to connect outside of the digital world. With IRL experiences, the MPH community will be able to meet and spend time in order to get to know one another on more than just a digital level.
+Interloop Land Mint
+The Rabbit Hole is an interactive and open world game that sits in a wider Unreal 5 Metaverse architecture being built by AMGI Studios called Interloop.  This will offer Immersive digital experience and bring other projects together with real interoperability. There will be a framework to ensure consistency whilst allowing builders to build their own experiences and gameplay modes. A land mint will take place for other projects, brands and private individuals to acquire land in Interloop. Genesis MPH holders will have benefits in line with the land release plan.
+My Pet Hooligan - YouTube Series
+As part of an overall media strategy, the project plans to  produce an ongoing series of Hooli shorts to air on YouTube. The shorts are considered to be a natural “narrative” extension to Hooli shoutouts on Twitter.
+My Pet Hooligan - The Feature Film
+AMGI Studios is in a unique position to be the first studio in history to execute the production of a full animated web-3 native feature film. 
+It's our mission to continue innovating in the Web 3 space while working hard to bring more value to our current and new holders. This collective adventure down The Rabbit Hole is just the beginning of what's to come.
+
+Where can I get a Hooligan?
+The genesis collection is SOLD OUT. You can only buy from secondary from the following marketplaces:
+- OpenSea https://opensea.io/collection/mypethooligan 
+- LooksRare https://looksrare.org/collections/0x09233d553058c2F42ba751C87816a8E9FaE7Ef10?queryID=343e793a2811d616707c4a521818a4a1
+- CoinbaseNFT https://nft.coinbase.com/collection/ethereum/0x09233d553058c2f42ba751c87816a8e9fae7ef10
+- X2Y2 https://x2y2.io/collection/mypethooligan/
+- Blur https://blur.io/collection/mypethooligan
+
+There will be other ways into the Web3 ecosystem and more characters that will inhabit The Rabbit Hole. Stay locked into the community and check out The Orange Paper here.
+
+Do you have a White Paper?
+No, we have an Orange Paper. Same thing, different color. Check it out here... oh wait, you're already here. 
+
+What is the utility of a genesis Hooligan?
+Genesis Hooligans will give you access to The Rabbit Hole, our suite of technologies including Hooligram, immi and FBX files. They also will give you access to soft staking, token claims, Alpha, NFT drops, events and more that will be revealed over the course of time. Utility is plentiful with the Hooligans!
+
+What is Interloop?
+The MPH P2E experience, The Rabbit Hole, is an iterative and open world experience that sits in a wider Unreal 5 metaverse architecture being built by AMGI Studios called Interloop. There are long term plans for how Interloop will take shape over time, including the ability for other projects and brands to acquire and build upon the architecture to create their own unique experiences as well. The Rabbit Hole is the first piece of that greater architecture.
+The interoperability of metaverses and Web3 brands is essential to a robust and healthy ecosystem, and Interloop will serve as the connective tissue that networks these communities.
+
+What is soft staking?
+Soft Staking is a form of staking that doesn't require a holder to part ways with their Hooligan to lock it into another contract outside of their control. It means the Hooligan will always be available and safe with the holder and all functionality within the My Pet Hooligan suite of products will remain intact.
+Soft Staking however still gives you all of the benefits that a more traditional staking method would give. By soft-staking your Hooligan and accumulating S-Karrots you will be able to get further activiations including our future NFT drops, Loot Boxes, Cosmetic Upgradaes, Merch and more.
+
+What is the utility of staking? What can I get from doing so?
+You will get the ability to stack S-Karrots which will be convertible for the $karrot ERC20 token during the Token Generation Event, closer to Season 1 of the Rabbit Hole game release. S-Karrots will also allow you to claim future NFT Drops, merch, token claims, admission to events, alpha and more that will be revealed over the course of time. 
+What are $karrots
+For more information on $karrots, please see the Ecosystem Tokens section of the orange paper. As mentioned above S-Karrots that are earned via Staking will be convertible for $karrots during the Token Genertaion Event.
+
+Can I still play the game, or use Hooligram and immi if my Hooligan is soft-staked?
+Yes.
+
+What is 'Proof of Pet'?
+Proof of pet is an achievement unlock for Diamond Handed Hooligans that have held for a set amount of time before the first snapshot. Proof of Pet will allow for a staking booster and further activations. First snapshot for ‘Proof of Pet’ is to be announced.
+
+I should be eligible for 'Proof of Pet' but have transferred from a Hot Wallet to a Ledger or equivalent will I still qualify?
+Yes. There will be a mechanism in place to account for this.
+
+How do I stake and unstake? 
+Visit https:/mypethooligan.com/staking, select the Hooligans you want to stake and click the stake button.
+Make sure you are connected to the wallet that holds your Hooligans, if not you can disconnect from the site via Metamask and re-connect with the correct wallet. If you are having trouble, a simple fix is usually a site refresh.
+
+Staked Hooligans can be un-staked using the same method. Select the ‘staked’ Hooligans and click un-stake.
+Note. As we are directly querying the blockchain there more Hooligans you have the longer it can take to load and refresh.
+
+Can you soft stake and un-stake in batches? 
+Yes. As we are directly querying the blockchain there more Hooligans you have the longer it can take to load and refresh.
+
+Is there a gas charge? 
+Yes, given our soft-staking accruals are on-chain there will be a small gas charge for staking, un-staking, claiming and spending S-KARROTS. There is no rush to stake so aim for a day/time where gas is at its most efficient. The more Hooligans you hold the more the gas fee will be. 
+There is no need to claim daily, only claim as and when you need to. These should be as and when activations you wish to partake in are presented.
+
+Is staking compatible with ledger or trezor? 
+Yes
+
+What happens if I have 9 Hooligans and 7 are from different factions and the other two are from some of those existing factions I already have? How do the points get split? Can I choose which ones I want the points to go to? 
+The boosted S-KARROTS that you will get by holding all 7 factions will get split equally across those 7 Hooligans. The Other 2 will accrue 10 S-KARROTS each daily.
+
+How will it display how many points I have?
+There are two counters. Claimed and Unclaimed. S-KARROTS will accumulate in the unclaimed pot until you claim them at which point they become fixed with your Hooligans. If you sell a Hooligan with claimed S-KARROTS these S-KARROTS go with the Hooligan. If you sell without claiming the S-KARROTS all unclaimed S-KARROTS are lost.
+
+What are the claimed and unclaimed counters and how does that affect things?
+There are two counters. Claimed and Unclaimed. S-KARROTS will accumulate in the unclaimed pot until you claim them at which point they become fixed with your Hooligans. If you sell a Hooligan with claimed S-KARROTS these S-KARROTS go with the Hooligan. If you sell without claiming the S-KARROTS all unclaimed S-KARROTS are lost.
+Note: Un-staking a Hooligan(s) will automatically claim all unclaimed tokens in full at the same time.
+
+Will the dashboard display my accumulated amount? 
+Yes, it will display the accumulated amount under each hooligan and the total under the wallet.
+
+Will S-KARROTS and Proof of Pet show on metadata? 
+The metadata will update multiple times per day updating any unlocked S-KARROTS your Hooligan holds and any update on Proof of Pet status. Unclaimed points will not show up as they are not yet claimed.
+
+Are points transferable on sale?
+It's important to understand that S-KARROTs are not held by a wallet but by the Hooligan itself. If a Hooligan is sold which has claimed S-KARROTs, these S-KARROTs will leave with the Hooligan to the new wallet. If you have not claimed the S-KARROTs and a Hooligan is sold all unclaimed S-KARROTs will be lost.
+
+Can I sell my staked hooligan? What happens if I sell my staked Hooligan?
+Yes, soft-staking does not lock up the Hooligan, it remains in your custody. Hooligans are not meant to be in cages, they broke free for a reason!
+
+What happens if I have two sets of 7 factions? Assuming both sets qualify for the booster?
+Yes, both of the 7 factions will receive the booster.
+
+Do I need to transfer to a Hot Wallet to stake?
+Not necessary.
+
+Is there a staking leaderboard?
+Not yet, this is something that we are looking into
+
+Is staking safe? Am I open to any risks?
+The NFT will remain in your custody and not be transferred to a staking contract as per traditional locked staking. Therefore you need to continue to be responsible for the safeguarding of your assets and always be weary of clicking on unsolicited links. We will never do sporadic drops. Everything that is coming is in our Orange Paper and is planned and will be communicated in advance before any of those activations happen. Out of the blue drops and giveaways are usually scams.
+
+Does Proof of Pet transfer with the Hooligan on sale?
+No
+
+What is The Rabbit Hole?
+The Rabbit Hole is My Pet Hooligan's game and social experience. It is a place to connect, socialize, be a hooligan and play games. The Rabbit Hole has a flexible and open architecture that will allow for future iterations and game modules to be added as time progresses.
+The Rabbit Hole leverages groundbreaking technologies that have never before been used, such as the ability to fully animate your character's face and body through keyboard control and a smartphone camera. The Rabbit hole brings the highest quality live user generated content (UGC) to a gaming platform.
+Development of large scale games take years, and My Pet Hooligan has taken the approach to deliver various game modes over the course of Seasons. It is understood that moving fast is extremely important in this space, and this approach allows the speed and flexibility to iterate toward a product market fit as fast as possible. 
+
+How do I install?
+Visit mypethooligan.com enter 'The Rabbit Hole', connect your wallet and download.
+
+System Requirements?
+Windows:
+OS: Windows 10 or 11
+GPU: DirectX 11 or 12 compatible graphics card, GTX1060 or better
+CPU: Quad-core Intel or AMD, 2.5 GHz or faster
+RAM: 8 GB
+macOS:
+OS: Big Sur, Monterey or better
+CPU: Quad-core Intel, 2.5 GHz or faster or Apple Silicon
+GPU: Metal 1.2 Compatible Graphics Card
+RAM: 8 GB
+
+What features are in the Alpha?
+Version 1 of the My Pet Hooligan, Rabbit Hole is an early access version of My Pet Hooligans, P2E Experience and Game. In this first iteration available to all My Pet Hooligan NFT Holders, we are looking for your assistance. My Pet Hooligan has always been community driven, and once again we are looking to you, to help us dive into this Early Access V1 with the understanding that you are an important part of the building and development process. 
+With that in mind, while we are wildly proud of what our team has created, this early Access V1 of Rabbit Hole WILL NOT be bug free and has limited functionality in comparison to the developing game. This is an opportunity for us to strengthen the core foundations camera, control and combat and gather data points to build on for Alpha V2.
+Below is a list that includes what features, areas and actions will be available in this Version 1 roll out. Community feedback and engagement in our process is a must. Join us, in the Rabbit Hole now!
+In this early version of our game you will have access to keys items such as: 
+- Playing as your NFT 
+- Limited Multiplayer Ability (first come first served) 
+- Limited Weapons and Limited Weapon Actions 
+- Limited Health, Inventory and Game Analytic Tracking
+- Face Control via Livelink App for local user (iPhone)
+- Initial Map with Faction Subsections (Expanded map to come in later versions) 
+- No P2E component in Early Access V1 
+- No gaming modes in Early Access V1, only PvP multiplayer battling
+Subsequent alpha versions will build on control, camera, and combat systems and add more environment detail, weaponry, and animations. They will also increase the multiplayer capacity. 
+
+How can I get on multi-player?
+Multiplayer is accessible via the ‘Main Menu’. Simply select ‘Join Server’. Once you select that you will see available servers to join. At this point, the only server available will be ‘AMGI Test Server’. Select the test server and then select ‘Join” to enter The Rabbit Hole.
+
+It is running slow, any tips?
+Limit the number of other programs on your machine other than The Rabbit Hole.  Additionally, we have installed a ‘Setting’ menu in game that will give you the ability to change the following to tailor the experience to your machine's parameters: 
+- Window Mode
+- Resolution
+- Resolution Scale 
+- FPS Limit 
+- VSYNC
+- Motion Blur 
+- Gamma 
+- Graphics Quality
+
+How can I report feedback for The Alpha?
+Complete the form here
+
+Is it Play & Earn and when will it start?
+The Rabbit Hole will have Play and Earn integrations, and this will start with Season 1 slated for a Q4 release. This will be the version that will include the gameplay modes as well as the Beta. The alpha versions of the game will not support any earning potential.
+
+Will there be free to play?
+Yes, free to play is fundamental to the growth and success of the game. It is also key to onboard traditional gamers to The Rabbit Hole. More details will be made available on this.
+Hooligram
+
+What is Hooligram?
+Hooligram is a first of its kind proprietary real time animation application designed for NFT holders. The app enables users to animate and control their NFT character through real-time motion capture of facial expressions and on-command animation technology. Hooligram democratizes animation, easily empowering content creators and owners to create brands and personalities (UGC) with their NFTs.
+Hooligram can also be used for livestreaming to popular platforms and even attending meetings as your NFT.
+
+Where can I download Hooligram?
+You can download here. There is a Windows and Mac version available. Support for the face motion capture is only currently available on iPhones, we are working on Android support. You will also need to download LiveLink for your iPhone and connect it on the same network as your desktop machine and input the IP address as shown on Hooligram.
+Tweaks, Tips & Tricks (speed, lagging etc)?
+
+What are the controls?
+When you first load up Hooligram you can see the control window, this can be toggled on and off too. You will need use of a mouse, keyboard and iPhone running live link for the full features
+My Hooligan has a Mask, can I remove it so I can see the face and it speaking?
+Yes. you can toggle the mask on or off
+
+I have more than one Hooligan can I toggle between?
+Yes, use the ‘N’ key on your keyboard and it will switch through your Hooligans 
+
+How can I used on Zoom, Twitch, Discord and recording?
+Check out the instructional video here which should cover the instructions you need to know
+
+What is immi?
+immi is a first of its kind mobile App co-developed with AMGI Studios. It allows you to step out of yourself and into 3D character anytime, anywhere with immi. Using your facial expressions, real-time animation, and augmented reality, it's the only mobile platform where you can bring wildly imaginative characters to life and transport them into your real world. To connect playfully. Express freely. And be whoever you want to be. Check out immi here
+
+Will all Hooligans be available on immi? 
+Yes. There are already a few Hooligans on immi. The rest are on their way and this will mark the first NFT collection available on a mobile app with live functionality.
+
+Version 1.1 of the My Pet Hooligan Rabbit Hole is an early access version of AMGI Studios' Web3 game and social experience. My Pet Hooligan has always been community driven, and once again we are looking to you to help us dive into this early access V1.1. You are an important part of the building and development process. While we are incredibly proud of what our team has created, this early access V1.1 of Rabbit Hole WILL NOT be bug free and the list of what we still want to do is a lot longer than the list of what we've done so far. Your support will be invaluable in helping us to make this great. 
+The game needs strong bones first. Running, jumping and shooting needs to feel fun right from the start before we go crazy writing rules, game modes and gameplay loops, and we need your help to make sure these foundations feel solid! We have improved many areas of the game for V1.1, areas such as: combat and weapons, melee and skateboard animation and user interface. Gamer profiles and text and voice chats are in progress for the next build with our integration with Epic Online Services. We're counting on you to give us feedback on existing things, as well as suggestions on things to include for the future builds and things for your own community to enjoy in game.
